@@ -10,4 +10,7 @@ That is, I think, what most technology (and, actually, businesses and people, to
 
 
 ## Links
-AsciiMorph: https://github.com/tholman/ascii-morph
+* AsciiMorph ([Tim Holman](http://tholman.com/)): https://github.com/tholman/ascii-morph
+* Obnoxious.css ([Tim Holman](http://tholman.com/)): http://tholman.com/obnoxious/
+* Console.Frog ([Tim Holman](http://tholman.com/)): http://tholman.com/console-dot-frog/
+* The Useless Web ([Tim Holman](http://tholman.com/)): http://www.theuselessweb.com/

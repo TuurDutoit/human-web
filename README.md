@@ -11,6 +11,7 @@ That is, I think, what most technology (and, actually, businesses and people, to
 ## People
 * Eli Fitch: http://eli.wtf/
 * Tim Holman: http://tholman.com/
+* Jen Simmons: http://labs.jensimmons.com/
 
 ## Websites
 * The Useless Web ([Tim Holman](http://tholman.com/)): http://www.theuselessweb.com/
